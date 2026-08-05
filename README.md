@@ -1,7 +1,7 @@
 # ☕ Starbucks Beverage Analytics Dashboard
 
 <p align="center">
-  <img src="Dashboard Images/Dashboard Overview.png" alt="Starbucks Dashboard" width="100%">
+  <img src="Dashboard Images/Starucks_Dashboard.png" alt="Starbucks Dashboard" width="100%">
 </p>
 
 <p align="center">
@@ -128,7 +128,7 @@ making the dashboard fully interactive.
 ## Complete Dashboard
 
 <p align="center">
-<img src="Dashboard Images/Dashboard Overview.png" width="100%">
+<img src="Dashboard Images/Starucks_Dashboard.png" width="100%">
 </p>
 
 ---
