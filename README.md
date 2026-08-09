@@ -165,7 +165,8 @@ Starbucks-Beverage-Analytics-Dashboard
 │
 ├── Dashboard Images
 │   └── Dashboard Overview.png
-│
+│   └──  Starbucks_Video.mp4
+│ 
 ├── Documentation
 │   ├── Project Report.pdf
 │   ├── Business Requirements.pdf
