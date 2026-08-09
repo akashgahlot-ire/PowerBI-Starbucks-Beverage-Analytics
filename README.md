@@ -1,9 +1,14 @@
 # ☕ Starbucks Beverage Analytics Dashboard
 
-<video src="Starbucks_Video.mp4" controls width="100%"></video>
-<p align="center">
-  <strong>Transforming beverage data into actionable business insights with Power BI.</strong>
-</p>
+
+
+https://github.com/user-attachments/assets/0fccae85-efbc-4cd1-a322-fdbc60d6bcbe
+
+
+
+
+
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
